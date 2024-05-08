@@ -5,9 +5,13 @@ Welcome to the City Pathfinding Java Program repository! This repository hosts a
 Features:
 
 Menu-Based Interface: The program offers a simple menu-based interface, allowing users to select their desired algorithm (BFS or DFS) and specify the origin and destination cities.
+
 Graph Representation: Utilizing the CityGraph class, the program creates a graph representing connections and distances between cities. This allows for efficient pathfinding algorithms.
+
 BFS and DFS Algorithms: The program implements both BFS and DFS algorithms to find the shortest path between cities. BFS guarantees an optimal solution for unweighted graphs, while DFS offers memory efficiency for deep graphs.
+
 Error Handling: While the current version lacks extensive error handling, it serves as a functional prototype. Future improvements could include robust error handling mechanisms to enhance user experience.
+
 Potential Enhancements: The codebase provides a solid foundation for further development. Potential enhancements include optimizing memory usage, implementing a graphical user interface using JavaFX, and exploring advanced pathfinding algorithms like Dijkstra's algorithm or A* for weighted graphs.
 
 
